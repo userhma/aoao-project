@@ -1,0 +1,5 @@
+# Development dependencies for Python (install into your virtualenv)
+pytest
+black
+isort
+flake8

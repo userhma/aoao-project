@@ -1,0 +1,12 @@
+# Node
+node_modules/
+npm-debug.log
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+# VS Code
+.vscode/
+# Misc
+dist/
+.DS_Store
